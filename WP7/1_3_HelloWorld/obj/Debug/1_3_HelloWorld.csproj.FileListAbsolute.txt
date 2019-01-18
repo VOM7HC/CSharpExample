@@ -1,0 +1,12 @@
+c:\users\khoim\documents\visual studio 2010\Projects\WP7\1_3_HelloWorld\Bin\Debug\ApplicationIcon.png
+c:\users\khoim\documents\visual studio 2010\Projects\WP7\1_3_HelloWorld\Bin\Debug\Background.png
+c:\users\khoim\documents\visual studio 2010\Projects\WP7\1_3_HelloWorld\Bin\Debug\1_3_HelloWorld.dll
+c:\users\khoim\documents\visual studio 2010\Projects\WP7\1_3_HelloWorld\Bin\Debug\1_3_HelloWorld.pdb
+c:\users\khoim\documents\visual studio 2010\Projects\WP7\1_3_HelloWorld\Bin\Debug\AppManifest.xaml
+c:\users\khoim\documents\visual studio 2010\Projects\WP7\1_3_HelloWorld\Bin\Debug\_1_3_HelloWorld.xap
+c:\users\khoim\documents\visual studio 2010\Projects\WP7\1_3_HelloWorld\obj\Debug\App.g.i.cs
+c:\users\khoim\documents\visual studio 2010\Projects\WP7\1_3_HelloWorld\obj\Debug\MainPage.g.i.cs
+c:\users\khoim\documents\visual studio 2010\Projects\WP7\1_3_HelloWorld\obj\Debug\1_3_HelloWorld.g.resources
+c:\users\khoim\documents\visual studio 2010\Projects\WP7\1_3_HelloWorld\obj\Debug\1_3_HelloWorld.dll
+c:\users\khoim\documents\visual studio 2010\Projects\WP7\1_3_HelloWorld\obj\Debug\1_3_HelloWorld.pdb
+c:\users\khoim\documents\visual studio 2010\Projects\WP7\1_3_HelloWorld\obj\Debug\XapCacheFile.xml
