@@ -10,3 +10,15 @@ c:\users\khoim\documents\visual studio 2010\Projects\WP7\1_3_HelloWorld\obj\Debu
 c:\users\khoim\documents\visual studio 2010\Projects\WP7\1_3_HelloWorld\obj\Debug\1_3_HelloWorld.dll
 c:\users\khoim\documents\visual studio 2010\Projects\WP7\1_3_HelloWorld\obj\Debug\1_3_HelloWorld.pdb
 c:\users\khoim\documents\visual studio 2010\Projects\WP7\1_3_HelloWorld\obj\Debug\XapCacheFile.xml
+C:\Users\khoim\Documents\CSharpExample\WP7\1_3_HelloWorld\Bin\Debug\ApplicationIcon.png
+C:\Users\khoim\Documents\CSharpExample\WP7\1_3_HelloWorld\Bin\Debug\Background.png
+C:\Users\khoim\Documents\CSharpExample\WP7\1_3_HelloWorld\Bin\Debug\1_3_HelloWorld.dll
+C:\Users\khoim\Documents\CSharpExample\WP7\1_3_HelloWorld\Bin\Debug\1_3_HelloWorld.pdb
+C:\Users\khoim\Documents\CSharpExample\WP7\1_3_HelloWorld\Bin\Debug\AppManifest.xaml
+C:\Users\khoim\Documents\CSharpExample\WP7\1_3_HelloWorld\Bin\Debug\_1_3_HelloWorld.xap
+C:\Users\khoim\Documents\CSharpExample\WP7\1_3_HelloWorld\obj\Debug\App.g.i.cs
+C:\Users\khoim\Documents\CSharpExample\WP7\1_3_HelloWorld\obj\Debug\MainPage.g.i.cs
+C:\Users\khoim\Documents\CSharpExample\WP7\1_3_HelloWorld\obj\Debug\1_3_HelloWorld.g.resources
+C:\Users\khoim\Documents\CSharpExample\WP7\1_3_HelloWorld\obj\Debug\1_3_HelloWorld.dll
+C:\Users\khoim\Documents\CSharpExample\WP7\1_3_HelloWorld\obj\Debug\1_3_HelloWorld.pdb
+C:\Users\khoim\Documents\CSharpExample\WP7\1_3_HelloWorld\obj\Debug\XapCacheFile.xml
