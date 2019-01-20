@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="1_10_InputTextBox" EntryPointType="_1_10_InputTextBox.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="1_10_InputTextBox" Source="1_10_InputTextBox.dll" />
+  </Deployment.Parts>
+</Deployment>

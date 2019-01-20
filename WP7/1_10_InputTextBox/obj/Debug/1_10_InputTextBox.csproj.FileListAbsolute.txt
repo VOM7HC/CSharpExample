@@ -1,0 +1,12 @@
+C:\Users\khoim\Documents\CSharpExample\WP7\1_10_InputTextBox\Bin\Debug\ApplicationIcon.png
+C:\Users\khoim\Documents\CSharpExample\WP7\1_10_InputTextBox\Bin\Debug\Background.png
+C:\Users\khoim\Documents\CSharpExample\WP7\1_10_InputTextBox\Bin\Debug\1_10_InputTextBox.dll
+C:\Users\khoim\Documents\CSharpExample\WP7\1_10_InputTextBox\Bin\Debug\1_10_InputTextBox.pdb
+C:\Users\khoim\Documents\CSharpExample\WP7\1_10_InputTextBox\Bin\Debug\AppManifest.xaml
+C:\Users\khoim\Documents\CSharpExample\WP7\1_10_InputTextBox\Bin\Debug\_1_10_InputTextBox.xap
+C:\Users\khoim\Documents\CSharpExample\WP7\1_10_InputTextBox\obj\Debug\App.g.i.cs
+C:\Users\khoim\Documents\CSharpExample\WP7\1_10_InputTextBox\obj\Debug\MainPage.g.i.cs
+C:\Users\khoim\Documents\CSharpExample\WP7\1_10_InputTextBox\obj\Debug\1_10_InputTextBox.g.resources
+C:\Users\khoim\Documents\CSharpExample\WP7\1_10_InputTextBox\obj\Debug\1_10_InputTextBox.dll
+C:\Users\khoim\Documents\CSharpExample\WP7\1_10_InputTextBox\obj\Debug\1_10_InputTextBox.pdb
+C:\Users\khoim\Documents\CSharpExample\WP7\1_10_InputTextBox\obj\Debug\XapCacheFile.xml
