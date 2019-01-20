@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="1_11_IfStatement" EntryPointType="_1_11_IfStatement.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="1_11_IfStatement" Source="1_11_IfStatement.dll" />
+  </Deployment.Parts>
+</Deployment>

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_9_Variables", "1_9_Variab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_10_InputTextBox", "1_10_InputTextBox\1_10_InputTextBox.csproj", "{FACD544A-E52A-4052-AF83-6CECD87C7035}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_11_IfStatement", "1_11_IfStatement\1_11_IfStatement.csproj", "{4C3DA3FD-F2DE-4506-B516-93C8D6E5DE44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,12 @@ Global
 		{FACD544A-E52A-4052-AF83-6CECD87C7035}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FACD544A-E52A-4052-AF83-6CECD87C7035}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FACD544A-E52A-4052-AF83-6CECD87C7035}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4C3DA3FD-F2DE-4506-B516-93C8D6E5DE44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C3DA3FD-F2DE-4506-B516-93C8D6E5DE44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C3DA3FD-F2DE-4506-B516-93C8D6E5DE44}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4C3DA3FD-F2DE-4506-B516-93C8D6E5DE44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C3DA3FD-F2DE-4506-B516-93C8D6E5DE44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C3DA3FD-F2DE-4506-B516-93C8D6E5DE44}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
