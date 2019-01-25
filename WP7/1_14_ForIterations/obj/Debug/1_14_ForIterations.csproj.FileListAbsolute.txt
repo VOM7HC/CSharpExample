@@ -1,0 +1,12 @@
+C:\Users\khoim\Documents\CSharpExample\WP7\1_14_ForIterations\Bin\Debug\ApplicationIcon.png
+C:\Users\khoim\Documents\CSharpExample\WP7\1_14_ForIterations\Bin\Debug\Background.png
+C:\Users\khoim\Documents\CSharpExample\WP7\1_14_ForIterations\Bin\Debug\1_14_ForIterations.dll
+C:\Users\khoim\Documents\CSharpExample\WP7\1_14_ForIterations\Bin\Debug\1_14_ForIterations.pdb
+C:\Users\khoim\Documents\CSharpExample\WP7\1_14_ForIterations\Bin\Debug\AppManifest.xaml
+C:\Users\khoim\Documents\CSharpExample\WP7\1_14_ForIterations\Bin\Debug\_1_14_ForIterations.xap
+C:\Users\khoim\Documents\CSharpExample\WP7\1_14_ForIterations\obj\Debug\App.g.i.cs
+C:\Users\khoim\Documents\CSharpExample\WP7\1_14_ForIterations\obj\Debug\MainPage.g.i.cs
+C:\Users\khoim\Documents\CSharpExample\WP7\1_14_ForIterations\obj\Debug\1_14_ForIterations.g.resources
+C:\Users\khoim\Documents\CSharpExample\WP7\1_14_ForIterations\obj\Debug\1_14_ForIterations.dll
+C:\Users\khoim\Documents\CSharpExample\WP7\1_14_ForIterations\obj\Debug\1_14_ForIterations.pdb
+C:\Users\khoim\Documents\CSharpExample\WP7\1_14_ForIterations\obj\Debug\XapCacheFile.xml

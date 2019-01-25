@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_10_InputTextBox", "1_10_I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_11_IfStatement", "1_11_IfStatement\1_11_IfStatement.csproj", "{4C3DA3FD-F2DE-4506-B516-93C8D6E5DE44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_14_ForIterations", "1_14_ForIterations\1_14_ForIterations.csproj", "{CD03F443-E882-447F-9A66-2347F730B071}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,12 @@ Global
 		{4C3DA3FD-F2DE-4506-B516-93C8D6E5DE44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C3DA3FD-F2DE-4506-B516-93C8D6E5DE44}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4C3DA3FD-F2DE-4506-B516-93C8D6E5DE44}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CD03F443-E882-447F-9A66-2347F730B071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD03F443-E882-447F-9A66-2347F730B071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD03F443-E882-447F-9A66-2347F730B071}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CD03F443-E882-447F-9A66-2347F730B071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD03F443-E882-447F-9A66-2347F730B071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD03F443-E882-447F-9A66-2347F730B071}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
