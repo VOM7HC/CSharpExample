@@ -1,0 +1,14 @@
+C:\Users\khoim\Documents\CSharpExample\WP7\2_1_String\Bin\Debug\ApplicationIcon.png
+C:\Users\khoim\Documents\CSharpExample\WP7\2_1_String\Bin\Debug\Background.png
+C:\Users\khoim\Documents\CSharpExample\WP7\2_1_String\Bin\Debug\2_1_String.dll
+C:\Users\khoim\Documents\CSharpExample\WP7\2_1_String\Bin\Debug\2_1_String.pdb
+C:\Users\khoim\Documents\CSharpExample\WP7\2_1_String\Bin\Debug\AppManifest.xaml
+C:\Users\khoim\Documents\CSharpExample\WP7\2_1_String\Bin\Debug\_2_1_String.xap
+C:\Users\khoim\Documents\CSharpExample\WP7\2_1_String\Bin\Debug\1_14_ForIterations.dll
+C:\Users\khoim\Documents\CSharpExample\WP7\2_1_String\Bin\Debug\1_14_ForIterations.pdb
+C:\Users\khoim\Documents\CSharpExample\WP7\2_1_String\obj\Debug\App.g.i.cs
+C:\Users\khoim\Documents\CSharpExample\WP7\2_1_String\obj\Debug\MainPage.g.i.cs
+C:\Users\khoim\Documents\CSharpExample\WP7\2_1_String\obj\Debug\2_1_String.g.resources
+C:\Users\khoim\Documents\CSharpExample\WP7\2_1_String\obj\Debug\2_1_String.dll
+C:\Users\khoim\Documents\CSharpExample\WP7\2_1_String\obj\Debug\2_1_String.pdb
+C:\Users\khoim\Documents\CSharpExample\WP7\2_1_String\obj\Debug\XapCacheFile.xml
