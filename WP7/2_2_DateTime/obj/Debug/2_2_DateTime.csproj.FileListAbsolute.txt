@@ -1,0 +1,12 @@
+C:\Users\khoim\Documents\CSharpExample\WP7\2_2_DateTime\Bin\Debug\ApplicationIcon.png
+C:\Users\khoim\Documents\CSharpExample\WP7\2_2_DateTime\Bin\Debug\Background.png
+C:\Users\khoim\Documents\CSharpExample\WP7\2_2_DateTime\Bin\Debug\2_2_DateTime.dll
+C:\Users\khoim\Documents\CSharpExample\WP7\2_2_DateTime\Bin\Debug\2_2_DateTime.pdb
+C:\Users\khoim\Documents\CSharpExample\WP7\2_2_DateTime\Bin\Debug\AppManifest.xaml
+C:\Users\khoim\Documents\CSharpExample\WP7\2_2_DateTime\Bin\Debug\_2_2_DateTime.xap
+C:\Users\khoim\Documents\CSharpExample\WP7\2_2_DateTime\obj\Debug\App.g.i.cs
+C:\Users\khoim\Documents\CSharpExample\WP7\2_2_DateTime\obj\Debug\MainPage.g.i.cs
+C:\Users\khoim\Documents\CSharpExample\WP7\2_2_DateTime\obj\Debug\2_2_DateTime.g.resources
+C:\Users\khoim\Documents\CSharpExample\WP7\2_2_DateTime\obj\Debug\2_2_DateTime.dll
+C:\Users\khoim\Documents\CSharpExample\WP7\2_2_DateTime\obj\Debug\2_2_DateTime.pdb
+C:\Users\khoim\Documents\CSharpExample\WP7\2_2_DateTime\obj\Debug\XapCacheFile.xml

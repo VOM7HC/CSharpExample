@@ -12,3 +12,4 @@ C:\Users\khoim\Documents\CSharpExample\WP7\2_1_String\obj\Debug\2_1_String.g.res
 C:\Users\khoim\Documents\CSharpExample\WP7\2_1_String\obj\Debug\2_1_String.dll
 C:\Users\khoim\Documents\CSharpExample\WP7\2_1_String\obj\Debug\2_1_String.pdb
 C:\Users\khoim\Documents\CSharpExample\WP7\2_1_String\obj\Debug\XapCacheFile.xml
+C:\Users\khoim\Documents\CSharpExample\WP7\2_1_String\obj\Debug\2_1_String.csprojResolveAssemblyReference.cache
